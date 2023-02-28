@@ -1,0 +1,40 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Documents/UIUC/CS 415/Level Design/LearningKit/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
+				"D:/Documents/UIUC/CS 415/Level Design/LearningKit/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/PursuerEnemy.uasset",
+				"D:/Documents/UIUC/CS 415/Level Design/LearningKit/UnrealLearningKit/Content/Hour_of_Code/Widgets/HealthWidget.uasset",
+				"D:/Documents/UIUC/CS 415/Level Design/LearningKit/UnrealLearningKit/Content/Hour_of_Code/Widgets/ScoreWidget.uasset",
+				"D:/Documents/UIUC/CS 415/Level Design/LearningKit/UnrealLearningKit/Content/LearningKit_Games/Assets/Props/PuzzlePieces/PuzzleCube_A/SM_PuzzleCube_A.uasset",
+				"D:/Documents/UIUC/CS 415/Level Design/LearningKit/UnrealLearningKit/Content/LearningKit_Robots/StaticMeshes/Robot/SM_KitRobot_ConnectorC_Blueprint.uasset",
+				"D:/Documents/UIUC/CS 415/Level Design/LearningKit/UnrealLearningKit/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap",
+				"D:/Documents/UIUC/CS 415/Level Design/LearningKit/UnrealLearningKit/Content/LearningKit_Games/Maps/Untitled.umap",
+				"D:/Documents/UIUC/CS 415/Level Design/LearningKit/UnrealLearningKit/Content/LearningKit_Games/Maps/Untitled2.umap",
+				"D:/Documents/UIUC/CS 415/Level Design/LearningKit/UnrealLearningKit/Content/LearningKit_Games/Maps/Untitled3.umap",
+				"D:/Documents/UIUC/CS 415/Level Design/LearningKit/UnrealLearningKit/Content/LearningKit_Games/Maps/Untitled4.umap",
+				"D:/Documents/UIUC/CS 415/Level Design/LearningKit/UnrealLearningKit/Content/LearningKit_Games/Maps/Untitled5.umap",
+				"D:/Documents/UIUC/CS 415/Level Design/LearningKit/UnrealLearningKit/Content/LearningKit_Games/Maps/Untitled6.umap",
+				"D:/Documents/UIUC/CS 415/Level Design/LearningKit/UnrealLearningKit/Content/LearningKit_Games/Maps/Untitled7.umap",
+				"D:/Documents/UIUC/CS 415/Level Design/LearningKit/UnrealLearningKit/Content/LearningKit_Games/Maps/Untitled8.umap",
+				"D:/Documents/UIUC/CS 415/Level Design/LearningKit/UnrealLearningKit/Content/LearningKit_Games/Maps/Untitled9.umap",
+				"D:/Documents/UIUC/CS 415/Level Design/LearningKit/UnrealLearningKit/Content/LearningKit_Games/Blueprints/BaseClasses/Master_Pickup_BP.uasset",
+				"D:/Documents/UIUC/CS 415/Level Design/LearningKit/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Pickups/PowerUp_Pickup_BP_Child.uasset",
+				"D:/Documents/UIUC/CS 415/Level Design/LearningKit/UnrealLearningKit/Content/LearningKit_Games/Blueprints/BaseClasses/AIController.uasset",
+				"D:/Documents/UIUC/CS 415/Level Design/LearningKit/UnrealLearningKit/Content/Hour_of_Code/Widgets/SM_PuzzleCube_A_Blueprint.uasset",
+				"D:/Documents/UIUC/CS 415/Level Design/LearningKit/UnrealLearningKit/Content/Hour_of_Code/Blueprints/ProjectileBP.uasset",
+				"D:/Documents/UIUC/CS 415/Level Design/LearningKit/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Interactables/PlayerButton_BP.uasset",
+				"D:/Documents/UIUC/CS 415/Level Design/LearningKit/UnrealLearningKit/Content/LearningKit_Games/Maps/Untitled10.umap",
+				"D:/Documents/UIUC/CS 415/Level Design/LearningKit/UnrealLearningKit/Content/LearningKit_Games/Maps/Untitled11.umap",
+				"D:/Documents/UIUC/CS 415/Level Design/LearningKit/UnrealLearningKit/Content/LearningKit_Games/Maps/Untitled12.umap",
+				"D:/Documents/UIUC/CS 415/Level Design/LearningKit/UnrealLearningKit/Content/LearningKit_Games/Maps/Untitled13.umap",
+				"D:/Documents/UIUC/CS 415/Level Design/LearningKit/UnrealLearningKit/Content/LearningKit_Games/Maps/Untitled14.umap",
+				"D:/Documents/UIUC/CS 415/Level Design/LearningKit/UnrealLearningKit/Content/LearningKit_Games/Maps/Untitled15.umap",
+				"D:/Documents/UIUC/CS 415/Level Design/LearningKit/UnrealLearningKit/Content/LearningKit_Games/Assets/Architecture/Platform/SM_Platform_M_A_Blueprint.uasset"
+			]
+		}
+	]
+}
